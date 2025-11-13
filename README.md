@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitPatil6340&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitpatildevops&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
 </p>
 
 ---
