@@ -4,7 +4,7 @@
 <h3 align="center">🚀 DevOps Enthusiast | Cloud Learner | Passionate about Automation</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohitPatil6340&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohitpatildevops&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/mohitpatildevops" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohitpatildevops/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mohitpatildevopss@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/mohitpatildevops"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
